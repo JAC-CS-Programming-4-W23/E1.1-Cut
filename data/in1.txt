@@ -1,0 +1,3 @@
+Bulbasaur,Charmander,Squirtle
+Ivysaur,Charmeleon,Wartortle
+Venusaur,Charizard,Blastoise
