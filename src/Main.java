@@ -1,5 +1,3 @@
-package ca.qc.johnabbott.cs4p6;
-
 import java.io.*;
 
 public class Main {
